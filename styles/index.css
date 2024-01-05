@@ -2,11 +2,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-.nav-title {
-    color: #181818;
-    font-size: 45px;
-    font-weight: 800;
-}
+/* Navbar Styling */
 
 .primary-color{
     color: #FD6E0A;
@@ -20,6 +16,12 @@ body{
     font-size: 1.25rem;
     font-weight: 700;
     padding: 1.15rem 2.25rem;
+}
+
+.nav-title {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
 }
 
 nav{
@@ -42,3 +44,4 @@ nav a {
     text-decoration: none;
     color: #181818;
 }
+
