@@ -202,3 +202,46 @@ main section {
     margin-top: 3.12rem;
     text-align: center;
 }
+
+/* Footer Section  */
+
+footer{
+    background: #FFF8F3;
+    display: flex;
+    gap: 7rem;
+    padding: 8rem 14.38rem;
+    margin-top: 7rem;
+}
+
+.footer-column{
+    width: 50%;
+}
+.footer-para{
+    color: #474747;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.social-link a{
+    margin-right: 1.5rem;
+}
+.contact input, textarea{
+    display: block;
+    margin-bottom: 1.5rem;
+    padding: 1.1rem 1.8rem;
+    color: #757575;
+    border-radius: 0.3125rem;
+    background: #FFF;  
+    border: none;
+    width: 28.8125rem;
+}
+input[type="text"], input[type="email"]{
+    margin-bottom: 1.5rem;
+    display: block;
+    padding: 1.1rem 1.8rem;
+    color: #757575;
+    border-radius: 0.3125rem;
+    background: #FFF;
+    border: none;
+    width: 28.8125rem;
+}
